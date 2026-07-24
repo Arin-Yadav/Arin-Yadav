@@ -1,12 +1,12 @@
-# Hi, I'm Arin Yadav 👋
+# Hi, I'm Arin Yadav  
 
-💻 Full Stack Web Developer (MERN Stack).  
-🌱 I enjoy turning ideas into real-world applications and learning through problem-solving.  
-🚀 Currently building projects that blend creativity with practical value.   
+- Full Stack Web Developer (MERN Stack).  
+- I enjoy turning ideas into real-world applications and learning through problem-solving.  
+- Currently building projects that blend creativity with practical value.   
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +32,7 @@
 
 ---
 
-## 💡 Skills
+## Skills
 - Responsive interfaces with HTML, CSS, and JavaScript  
 - Modern UI development using React and Tailwind CSS  
 - RESTful API design with Node.js and Express  
@@ -43,34 +43,25 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects  
 
-### 🔹 [Blog Website](https://github.com/Arin-Yadav/Fullstack-Blogify-website)
-- Full-featured blog platform with CRUD functionality  
-- Markdown support for posts  
-- Authentication & user management  
+### [Blog Website](https://github.com/Arin-Yadav/Fullstack-Blogify-website)  
 
-### 🔹 [Weather App](https://github.com/Arin-Yadav/weather-app)
-- Fetches live weather data using APIs  
-- Clean, responsive UI  
-- Built with React and OpenWeather API
+### [Weather App](https://github.com/Arin-Yadav/weather-app)  
 
-### 🔹 [Chat App with SOS Alerts](https://github.com/Arin-Yadav/chat-app)
-- Room-based architecture with MongoDB integration  
-- Real-time messaging using Socket.io  
-- Emergency SOS alerts with location sharing  
+### [Chat App with SOS Alerts](https://github.com/Arin-Yadav/chat-app)  
+
 
 ---
 
 ## 🏆 Achievements
-- 🚀 Built full‑stack projects (chat app, blog, weather app) demonstrating MERN expertise  
-- 📚 Continuously learning and applying new technologies to solve real problems  
-- 🤝 Contributed to open‑source projects and improved documentation  
-- 🏅 Created responsive, user‑friendly interfaces with strong attention to detail  
+- Built full‑stack projects demonstrating MERN expertise  
+- Continuously learning and applying new technologies to solve real problems  
+- Created responsive, user‑friendly interfaces with strong attention to detail  
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arinyadav)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://arin-yadav-portfolio.netlify.app)

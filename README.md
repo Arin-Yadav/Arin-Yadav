@@ -1,4 +1,4 @@
-# Hi there, I'm Arin Yadav
+# Hi, I'm Arin Yadav
 
 ### Full Stack Web Developer | MERN Stack.
 
@@ -39,34 +39,6 @@ I'm a Full Stack Developer focused on building scalable, user friendly web appli
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## Skills
-
-- Responsive Web Design
-- REST API Development
-- Real-time Applications with Socket.io
-- Git & GitHub Version Control
-- Deployment with Vercel & Netlify
-- Clean Code & Problem Solving
-
----
-
-## Featured Projects
-
-### 🔗 [Real-time chat app](https://github.com/Arin-Yadav/chat-app)
-### 🔗 [Weather App](https://github.com/Arin-Yadav/weather-app)
-### 🔗 [Women Safety app](https://github.com/Arin-Yadav/Women-safety-app)
-
----
-
-## Achievements
-
-- Built multiple full-stack MERN applications
-- Strong understanding of modern web development principles
-- Experience developing responsive and user-friendly interfaces
-- Continuously learning new technologies and improving development practices
 
 ---
 
